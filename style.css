@@ -1,49 +1,58 @@
 @charset "UTF-8";
 
 @media screen and and (max-width:500px){
-body{
+.frex-area {
  width: 101%; 
  height: 100%;
  background-image: url(DSC01833.JPG);
- background-size: cover; 
- 
- margin-left: 25%;
- margin-top: 35%;
+ background-repeat: no-repeat 
+ background-size: cover;
+ background-position: center;
+}
+ body {
+ margin-left: 10%;
+ margin-top: 15%;
  font-size:25px;
  line-height: 2.25;
  
  display: flex;
+ }
 
-}
 
 @media screen and (min-width:501px) and (max-width:1400px){
-body{
+.frex-area{
  width: 101%; 
  height: 100%;
  background-image: url(DSC01833.JPG);
- background-size: cover; 
- 
- margin-left: 25%;
- margin-top: 35%;
+ background-repeat: no-repeat 
+background-size: cover;
+ background-position: center;
+}
+ body {
+ margin-left: 10%;
+ margin-top: 15%;
  font-size:25px;
  line-height: 2.25;
  
  display: flex;
+ }
+ 
 
-}
 
   @media screen and (min-width:1401px) 
-body{
+.frex-area{
  width: 101%; 
  height: 100%;
  background-image: url(DSC01833.JPG);
- background-size: cover; 
- 
- margin-left: 25%;
- margin-top: 35%;
+ background-repeat: no-repeat 
+ background-size: cover;
+ background-position: center;
+}
+  body {
+ margin-left: 10%;
+ margin-top: 15%;
  font-size:25px;
  line-height: 2.25;
  
  display: flex;
-
 }
