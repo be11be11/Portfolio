@@ -5,9 +5,9 @@ body{
  background-repeat: no-repeat
  
 text-align: center
- font-size: 15rem;
+ font-size: 33rem;
  line-height: 2.25;
- 
+ padding-left: 15%;
  display: flex;
 
 }
